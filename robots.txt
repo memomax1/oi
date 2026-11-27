@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /new-post-template.txt
-Sitemap: https://memomax1.github.io/oi/sitemap.xml
