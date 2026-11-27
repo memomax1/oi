@@ -1,6 +1,0 @@
-
-.heroband{background:var(--bg);text-align:center;overflow:hidden}
-.heroband h1{margin:0;padding:34px 12px 0;font-family:Arial,sans-serif;font-size:clamp(42px,8vw,96px);font-weight:900;letter-spacing:12px;color:#dff7ff;text-shadow:0 2px 0 #7bdcff,0 4px 0 #1685bb,0 6px 0 #07517d,0 8px 0 #06304e,0 12px 15px rgba(0,0,0,.9),0 0 20px #00aaff,0 0 45px #008cff}
-.heroband img{display:block;width:100%;max-width:1500px;height:auto;margin:-8px auto 0;-webkit-mask-image:linear-gradient(transparent,#000 14%,#000 86%,transparent);mask-image:linear-gradient(transparent,#000 14%,#000 86%,transparent)}
-@media(max-width:600px){.heroband h1{letter-spacing:5px;padding-top:24px}}
-.intro{text-align:center;padding:24px 16px 0}.intro p{color:var(--mu);margin:0}
